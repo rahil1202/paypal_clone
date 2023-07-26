@@ -1,6 +1,10 @@
 # PayPal Clone
 Fully responsive PayPal clone website using HTML, CSS and JavaScript.
 
+
+## Live Link
+https://paypalclone-rahil1202.netlify.app
+
 ## Languages
 - HTML
 - CSS
@@ -21,8 +25,6 @@ https://github.com/rahil1202/paypal_clone/assets/104057403/407e33a5-0a2c-4cac-8c
 
 
 
-## Live Link
-https://rahil1202.github.io/paypal_clone/
 
 
   
